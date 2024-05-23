@@ -79,11 +79,11 @@
 
 | Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
 |-----------------------------|--------------------------------------|---------------------------|
-[proje ismi](canlı sayfanın linki) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
-[proje ismi](canlı sayfanın linki) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup -Formik, Axios, React-Tremor, Material UI, MUI DataGrid, Daisy UI, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
-[proje ismi](canlı sayfanın linki) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
-[proje ismi](canlı sayfanın linki) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
-[proje ismi](canlı sayfanın linki) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
+[storeRedux](https://store-redux-weld.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
+[nba_nba](https://nba-nba.vercel.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup -Formik, Axios, React-Tremor, Material UI, MUI DataGrid, Daisy UI, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
+[kronometre](https://gulsahmy.github.io/kkronometre/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
+[js-ass3](https://gulsahmy.github.io/js-ass3/) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
+[ass-6](https://gulsahmy.github.io/ass-6/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
 [proje ismi](canlı sayfanın linki) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
 [proje ismi](canlı sayfanın linki) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
 [proje ismi](canlı sayfanın linki) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](repo linki)
