@@ -79,7 +79,6 @@
 
 | Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
 |-----------------------------|--------------------------------------|---------------------------|
-
 [proje ismi](canlı sayfanın linki) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
 [proje ismi](canlı sayfanın linki) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
 [proje ismi](canlı sayfanın linki) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](repo linki)
